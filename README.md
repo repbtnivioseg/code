@@ -3,9 +3,13 @@
 This repository contains the datasets and R scripts to replicate our results. 
 
 test.r was used to produce figure 1 and the data for tables 1,2,3 and part of the data of table 5,6.
+
 mil_civ.r was used for to produce figure 2 and part of the data for table 4.
+
 mil_only.r was used to produce part of the data for table 4.
+
 School_2009.r was used to produce figure 3 and part of the data of table 5.
+
 decay_deaths.r was used to produce part of the data of table 6.
 
 
